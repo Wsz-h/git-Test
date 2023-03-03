@@ -9,5 +9,7 @@ public class FirstDemo {
         System.out.println("git6~git~git~");
         System.out.println("git7~git~git~");
         System.out.println("git8~git~git~");
+        System.out.println("git9~git~git~");
+        System.out.println("git10~git~git~");
     }
 }
