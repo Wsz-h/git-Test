@@ -6,5 +6,7 @@ public class FirstDemo {
         System.out.println("git3~git~git~");
         System.out.println("git4~git~git~");
         System.out.println("git5~git~git~");
+        System.out.println("git6~git~git~");
+        System.out.println("git7~git~git~");
     }
 }
